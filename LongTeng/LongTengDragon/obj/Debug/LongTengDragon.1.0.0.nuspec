@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LongTengDragon</id>
+    <version>1.0.0</version>
+    <authors>LongTengDragon</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/longtenggenssupreme/longtengtengdragon.git" commit="b5b2037d8d7120e838d37d8adb3a51911e09e6dc" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\bin\Debug\netstandard2.0\LongTengDragon.dll" target="lib\netstandard2.0\LongTengDragon.dll" />
+  </files>
+</package>

@@ -6,5 +6,4 @@ F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTeng
 F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTengDragon.csproj.CoreCompileInputs.cache
 F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTengDragon.dll
 F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTengDragon.pdb
-F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTengDragon.csprojAssemblyReference.cache
 F:\Person\aaa\LongTeng\LongTeng\LongTengDragon\obj\Debug\netstandard2.0\LongTengDragon.sourcelink.json
